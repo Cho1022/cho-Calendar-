@@ -1,0 +1,17 @@
+body {  
+    display : flex;
+    align-items: center; 
+    justify-content: center;
+    min-height: 100vh;
+    background: #9b5;
+}
+.button_wrap{
+    display : flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+.button_wrap button {
+    border: none;
+    cursor: pointer; 
+    border-radius: 5px; 
+}
